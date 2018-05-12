@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42486'
     url: http://www.gutenberg.org/2009/agents/42486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43935#William-E.-Burton--Actor-Author-and-ManagerA-Sketch-of-his-Career-with-Recollections-of-his-P_
 gutenberg_issued: '2013-10-11'
 gutenberg_type: Text
 identifiers:
