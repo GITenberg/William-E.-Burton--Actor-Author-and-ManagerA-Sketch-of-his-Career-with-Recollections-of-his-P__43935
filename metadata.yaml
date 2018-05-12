@@ -1,0 +1,32 @@
+_repo: William-E.-Burton--Actor-Author-and-ManagerA-Sketch-of-his-Career-with-Recollections-of-his-P__43935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keese, William L. (William Linn)
+    alias: Keese, William Linn
+    birthdate: 1835
+    deathdate: 1904
+    gutenberg_agent_id: '42486'
+    url: http://www.gutenberg.org/2009/agents/42486
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43935'
+  lccn: '14021028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Burton, William E. (William Evans), 1802-1860'
+- !lcsh 'Theatrical managers -- Biography'
+- !lcsh 'Actors -- Biography'
+title: 'William E. Burton: Actor, Author, and Manager
+
+  A Sketch of his Career with Recollections of his Performances'
+url: http://www.gutenberg.org/ebooks/43935
